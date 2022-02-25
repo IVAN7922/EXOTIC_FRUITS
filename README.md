@@ -8,4 +8,4 @@
 * JavaScript
 ---
 ### Как открыть / Запустить
-В файловом менеджере кликнуть по файлу index.html. / Перейти по ссылке: <https://ivan7922.github.io/Exsotic_Fruits/>
+В файловом менеджере кликнуть по файлу index.html / Перейти по ссылке: <https://ivan7922.github.io/Exsotic_Fruits/>
